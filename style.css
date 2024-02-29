@@ -1,0 +1,85 @@
+
+#firstcontainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+#startnow{
+display: grid;
+grid-template-columns: min-content;
+}
+
+#numbers{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+#startnow{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#second-container{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+} 
+.image{
+    width: 500px;
+    height: 300px;
+}
+.alone{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.alone2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#the-images{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+#third-container{
+   text-align: center;
+}
+#fouth{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#image3{
+width: 80%;
+}
+#trendy{
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+.offer-online{
+    display: grid;
+    grid-template-columns:auto auto ;
+}
+.offer-online{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.centre{
+  text-align: center;  
+}
+.four-images{
+    display: grid;
+    align-items: space-around;
+}
+.reviews{
+    text-align: center;
+}
+.finedecore{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+.Last{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.four-images{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+}
